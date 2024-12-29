@@ -5,8 +5,11 @@ console.log("Ananya")
 let name="Ananya"
 let age=18
 let isLoggedIn=true
-// number
+// number -> 2^53
 //bigint
 //boolean 
-//null
+//null -> object
+//undefined
+//symbol
+//object
 
